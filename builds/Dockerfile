@@ -1,4 +1,2 @@
-FROM ubuntu:latest
-LABEL authors="jonata.araujo"
-
-ENTRYPOINT ["top", "-b"]
+FROM nginx:latest
+RUN echo '<h1> hello world! </h1>' > /usr/share/nginx/html/index.html
