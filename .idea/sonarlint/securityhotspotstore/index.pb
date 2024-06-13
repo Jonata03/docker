@@ -23,3 +23,21 @@ W
 'node-mongo-compose/backend/package.json,1/6/1610c4f93728b68ae0fdab2d03d60e0d1882af22
 P
  email_workers/docker-compose.yml,9/f/9fc0d95e0c85aea3cbc0d55a8aab0e765ecaf2ff
+N
+email_workers/scripts/init.sql,d/3/d3564da381fbc1932aff83588f41bd2ee0e654eb
+O
+email_workers/scripts/check.sql,0/c/0c7931e629b6b4da4044e588112e57d3bde4e69a
+L
+email_workers/web/index.html,b/e/be48474467095b609d9177ed1f6123c236bc7d31
+H
+email_workers/app/app.sh,c/0/c068a62c9d24683e22ea9f5228f2901decea82f8
+K
+email_workers/app/sender.py,8/4/84da83f6e89f187d5499c75a7e0ea385e7c850d2
+P
+ email_workers/nginx/default.conf,7/d/7d65b60b451c0f5e674fbf2541fe50ee4b27e722
+K
+email_workers/worker/app.sh,b/4/b405334c3cb21147bb693ec14a71e92846e7f4fe
+N
+email_workers/worker/worker.py,c/d/cdf6bfe9025d3f49cedca3e22f82b34ac30dec47
+O
+email_workers/worker/Dockerfile,f/3/f3fc3dcdbcee377af8335457b0f51bc4055ce9da
